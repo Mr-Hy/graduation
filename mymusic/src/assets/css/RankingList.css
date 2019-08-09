@@ -1,0 +1,39 @@
+.head-nav{
+    display: flex;
+    padding: 1rem;
+}
+.head-out{
+    width: 1.5rem;
+    margin-right: 1rem;
+}
+.head-span{
+    font-size: 18px;
+
+}
+.itran{
+    text-align: left;
+    padding: 10px;
+}
+
+/* 排行榜内容 */
+.item-list{
+    display: flex;
+}
+.img-div{
+    padding: 5px;
+    margin:0 10px;
+}
+.item-list-img{
+    width: 5rem;
+    border-radius:4px;
+}
+.item-list-text{
+    font-size: 12px;
+    padding: 5px;
+    margin:0 10px;
+    text-align: left;
+    line-height: 1.8rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

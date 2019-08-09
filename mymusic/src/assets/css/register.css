@@ -1,0 +1,59 @@
+.head-nav{
+    display: flex;
+    padding: 1rem;
+}
+.head-out{
+    width: 1.5rem;
+    margin-right: 1rem;
+}
+.head-span{
+    font-size: 18px;
+
+}
+.itran{
+    text-align: left;
+    padding: 10px;
+}
+
+.user-hint{
+    text-align: left;
+    font-size: 12px;
+    margin-left: 1rem
+}
+.user-enter{
+    outline: none;
+    width: 90%;
+    height: 2rem;
+    border: 0px;
+    border-bottom: 1px solid #e8e8e8;
+    margin-top: 2rem;
+}
+
+.user-next{
+    width: 90%;
+    height: 2rem;
+    background-color: red;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 2rem;
+}
+.user-next:active{
+    background-color: rgb(175, 2, 2);
+}
+
+.user-next-span{
+    line-height: 2rem;
+    color: #fff;
+}
+
+.input-text{
+    position: relative;
+}
+
+.forget-pass{
+    font-size: 12px;
+    text-decoration:none;
+    position: absolute;
+    top: 68%;
+    left: 80%;
+}
